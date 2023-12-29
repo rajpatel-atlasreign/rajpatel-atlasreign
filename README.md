@@ -1,7 +1,7 @@
 # 💫 About Me
 <br>I'm deeply passionate about harnessing the power of data through artificial intelligence and machine learning. As a Python enthusiast, I'm always exploring innovative ways to apply my skills in data science to solve complex problems.<br><br>🌱 My Objective:<br>I'm committed to creating or joining an organization where I can continually grow my technical abilities. I believe in the continuous pursuit of learning, ensuring that I stay at the forefront of AI/ML advancements. This not only fuels my professional growth but also enriches my personal development.<br><br>🔍 What I Bring:<br><br>Innovative Problem Solving: Leveraging AI and ML to find creative solutions.<br>Python Mastery: Skilled in Python programming, aiming to push the boundaries of what's possible.<br>Data-Driven Approach: Focused on using data to drive decisions and innovations.<br>Lifelong Learning: Committed to constantly learning and adapting to new technologies.<br><br>📈 Looking Forward:<br>I am eager to collaborate with like-minded individuals and teams who are as passionate about technology and innovation as I am. Together, we can unlock the potential of data to create impactful solutions.
 
-<br>
+<br><br>
 # 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/XsdyVNvm75) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajpatel.ai) 
